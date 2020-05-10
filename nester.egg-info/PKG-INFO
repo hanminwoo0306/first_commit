@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: nester
+Version: 0.0.0
+Summary: nested 리스트를 간단하게 출력하기
+Home-page: http:hanminwoo.com
+Author: hanminwoo
+Author-email: hanminwoo0306@gmail.com
+License: MIT
+Description: <h1>nested project</h1>
+        
+        <h1>파이썬 학습중입니다.</h1>
+        <li>리스트</li>
+        <li>리스트</li>
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
