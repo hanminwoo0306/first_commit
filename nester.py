@@ -6,8 +6,6 @@ movies = [
         ["Graham Chapman",
             ["michale Palin", "John clesse", "Terry Gilliam", "Eric Idle", "Terry Jones"]]]
 
-
-
 def print_lol(the_list):
     """이 함수는 the_list라는 이름의 인자를 갖고 있으며, 파이썬 리스트를 받습니다. 이 리스트는
     리스트도 항목으로 포함할 수 있습니다. 매 라인마다 리스트에 있는 데이터 항목이 하나씩
@@ -18,4 +16,5 @@ def print_lol(the_list):
         else:
             print(each_item)
 
+print_lol(movies)
 print_lol(movies)
